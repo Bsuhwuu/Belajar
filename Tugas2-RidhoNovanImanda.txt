@@ -1,0 +1,31 @@
+LEARN GIT
+Git adalah sistem yang mengontrol dan mengelola sebuah sumber kode yang memberi kemudahan pekerjaan dari project bersama.
+Git memiliki dua sistem yaitu :
+- Centralized (sebuah project yang hanya dapat disimpan jika terhubung pada server)
+- Distributed (sebuah project yang dapat disimpan pada server dan lokal sistem)
+
+*Fitur-Fitur pada Git
+- kontrol versi (Menyimpan, memantau, mengelola setiap ada perubahan pada sumber kode atau disebut HISTORY)
+- Git Branch (sebuah anak dari induknya atau disebut cabang, agar tidak terjadi benturan kode :)
+- Merging (menggabungkan cabang apabila project sudah clear ke baranch utama:)
+- Staging area (sebuah area yang dapat memberikan tempat opsi untuk diCommit)
+- Git Rebase (menggeser branch ke posisi terakhir dari master/main)
+- Hooks ( sebuah script automizer pada bagian push)
+- Gui Tools (yang memudahkan user)
+* Perintah Utama
+- Git Clone (menduplikasi repsitori ke direktori lokal)
+- git add (menambahkan perubahan file)
+- git commit (menyimpan perubahan ke repositori)
+- git push (mengirimkan perintah yang sudah dicommit)
+- git pull (mengambil perubahan dari repositori ke lokal)
+- git merge (menggabungkan cabang ke cabang utama)
+- git branch (daftar cabang)
+- git checkout (bergerak dan berpindah antar cabang dari repositori)
+- git status (informasi repository)
+- git log (informasi histori commit)
+- git remote (mengelola repositori)
+- git fetch (mengambil informasi repositori tanpa manggabungkan ke lokal)
+
+Terdapat dua VCS yang bisa saya pelajari yaitu GitLab dan GitHub
+Gitlab untuk team dengan jangkauan luas
+GitHub untuk team dengan jangkauan sedikit
